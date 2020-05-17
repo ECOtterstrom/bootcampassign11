@@ -1,0 +1,23 @@
+{
+  "name": "bootcampassign11",
+  "version": "1.0.0",
+  "description": "note-taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECOtterstrom/bootcampassign11.git"
+  },
+  "author": "Erin Otterstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ECOtterstrom/bootcampassign11/issues"
+  },
+  "homepage": "https://github.com/ECOtterstrom/bootcampassign11#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
